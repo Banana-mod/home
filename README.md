@@ -1,2 +1,2 @@
-# Dino-Home
-This is home of dinosaurmod.
+# Home
+This is home of Banana-mod.
